@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate>
+  <app appid='hhnodbeiloddjlmgknhdlghpkgfpmjje'>
+    <updatecheck codebase='https://github.com/RCRoger/testextension/blob/master/SecureNav.crx?raw=true' version='0.5' />
+  </app>
+</gupdate>
